@@ -1,0 +1,15 @@
+"E:\IAR软件\arm\bin\armproc.dll" 
+
+"E:\IAR软件\arm\bin\armjlink.dll" 
+
+"D:\省赛程序\UART_INT\Prj\IAR\FX15_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "E:\IAR软件\arm\bin\armbat.dll" 
+
+--device_macro "E:\IAR软件\arm\config\debugger\Freescale\Kxx.dmac" 
+
+--flash_loader "E:\IAR软件\arm\config\flashloader\Freescale\FlashK60Fxxx128K.board" 
+
+
+
+
